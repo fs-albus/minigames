@@ -23,69 +23,6 @@
 }
     </script>
     <div class="fill d-flex justify-content-center align-items-center">
-        <!-- <div class="wrapper">
-
-
-          <div class="face two">
-              <div class="dot"></div>
-              <div class="dot"></div>
-          </div>
-
-          <div class="face three">
-              <div class="dot"></div>
-              <div class="dot"></div>
-              <div class="dot"></div>
-          </div>
-
-          <div class="face four">
-            <div class="my-container">
-              <div class="dot"></div>
-              <div class="dot"></div>
-            </div>
-            <div class="my-container">
-              <div class="dot"></div>
-              <div class="dot"></div>
-            </div>
-          </div>
-          
-
-          <div class="face five">
-            <div class="my-container">
-              <div class="dot"></div>
-              <div class="dot"></div>
-            </div>
-
-            <div class="my-container">
-              <div class="dot"></div>
-            </div>
-
-            <div class="my-container">
-              <div class="dot"></div>
-              <div class="dot"></div>
-            </div>
-          </div>
-
-          <div class="face six">
-            <div class="my-container">
-              <div class="dot"></div>
-              <div class="dot"></div>
-              <div class="dot"></div>
-            </div>
-            <div class="my-container">
-              <div class="dot"></div>
-              <div class="dot"></div>
-              <div class="dot"></div>
-            </div>
-          </div>
-
-
-        </div> -->
-
-
-
-        
-
-
         <div class="d-flex flex-column justify-content-center align-items-center" style="height: 280px; width: 600px;">
         <div class="container" >
             <div class="row justify-content-md-center">

@@ -11,7 +11,7 @@
     die("Connection failed: " . $conn->connect_error);
   }
 
-  $sql = "SELECT * FROM `probabilities`";
+  $sql = "SELECT * FROM `tb_probabilities`";
   $result = $conn->query($sql);
 
   $arr = Array();
