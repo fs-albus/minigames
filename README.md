@@ -1,2 +1,2 @@
-# minigames
- Berisi program minigames
+# Minigames
+ Minigames merupakan repository untuk seluruh minigames yang telah dibuat
