@@ -34,8 +34,6 @@ html, body {
     animation: hide 1500ms;
 }
 
-
-
 @keyframes hide {
     0% {
         height: 70px;

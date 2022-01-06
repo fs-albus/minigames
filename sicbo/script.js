@@ -50,6 +50,10 @@ dice_1.innerHTML = dices['1'];
 dice_2.innerHTML = dices['1'];
 dice_3.innerHTML = dices['1'];
 
+dice_2.onclick = function() {
+    roll(probabilities);
+}
+
 function generateArray(probabilities) {
     let arr = [];
 

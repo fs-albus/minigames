@@ -3,20 +3,21 @@ let my_form = document.getElementById("my-form");
 let isAnimate = false;
 const handshakeTime = 800; // Waktu dari css (1000) - 200
 
+// untuk mendapatkan keluaran robot
 const data = {
     'rock': {
-        'win': 'scissors',
-        'lose': 'paper',
+        'lose': 'scissors',
+        'win': 'paper',
         'draw': 'rock'
     },
     'paper': {
-        'win': 'rock',
-        'lose': 'scissors',
+        'lose': 'rock',
+        'win': 'scissors',
         'draw': 'paper'
     },
     'scissors': {
-        'win': 'paper',
-        'lose': 'rock',
+        'lose': 'paper',
+        'win': 'rock',
         'draw': 'scissors'
     }
 }

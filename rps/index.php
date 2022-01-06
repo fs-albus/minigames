@@ -29,8 +29,11 @@
 
 <div>
   <h1><strong>ROCK PAPER SCISSORS</strong></h1>
+  
   <div id="hands">
+  <span class="text-white">BOT</span>
     <div class="hand" id="computer-hand">
+      
       <div class="fist"></div>
       <div class="finger finger-1"></div>
       <div class="finger finger-2"></div>
